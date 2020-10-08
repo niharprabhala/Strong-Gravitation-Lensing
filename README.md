@@ -1,1 +1,1 @@
-# Strong-Gravitation-Lensing
+# Strong-Gravitational-Lensing
